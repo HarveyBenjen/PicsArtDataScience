@@ -5,6 +5,11 @@
 
 // Problem 1
 
+def shoppingBasket(): Array[String] = {
+    answer = false
+    
+    
+}
 
 // Problem 2
 
